@@ -1,0 +1,48 @@
+#header a{
+    color: black;
+}
+
+#header img{
+    width: 100px;
+    height: auto;
+}
+
+#header{
+    background: #FDFEFE !important;
+}
+
+#main .carousel-item img{
+    object-fit: cover;
+    opacity: 1;
+}
+
+body{
+    background-color: white;
+}
+
+#djs p{
+    color: black;
+}
+
+#djs img{
+    width: 200.0px;
+    height: auto;
+}
+
+#carrusel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+}
+
+#djs{
+    background-color: white;
+}
+
+#footer {
+    background-color: black;
+}
